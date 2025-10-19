@@ -1,10 +1,7 @@
 # README
 
-**We will update this notebook with data, cell outputs, and more detailed comments/notes upon publication.**
-
-Currently, we are providing code that can be used to reproduce the main results presented in our work.
-
-This is provided in `reproducing_results.ipynb` and uses the censored data available as supplementary material
+Code that can be used to reproduce the main results from our work is provided in `reproducing_results.ipynb`.
+This notebook uses the censored data available as supplementary material
 and included in this repository. This data has been censored to remove any PHI and is not the original data,
 and should produce identical results to those presented in the paper for most analyses. Some analyses
 may have slight differences resulting from censoring or processing of the raw data containing PHI. For
